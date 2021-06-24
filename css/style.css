@@ -1,0 +1,36 @@
+body{
+    background: #292D3E;
+}
+
+.container{
+    margin-top: 120px;
+    margin-left: auto;
+}
+
+.box{
+    transition: 0.25s;
+    width: 10px;
+    height: 10px;
+    word-wrap: break-word;
+    padding: 26px;
+    color: white !important;
+    font-size: 140%;
+    border: 1px solid white;
+    background: #0052C6;
+    outline: none  !important;
+    text-align: center  !important;
+    /*these lines center the text */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box:hover{
+    transition: 0.25s;
+    cursor: pointer;
+    opacity: 60%;
+}
+
+h2{
+    color:white;
+}
