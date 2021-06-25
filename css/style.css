@@ -34,3 +34,19 @@ body{
 h2{
     color:white;
 }
+
+#etiqueta{
+    background: crimson;
+    margin-top: 120px;
+    color: white;
+    display: none;
+    width: 460px;
+}
+
+#etiqueta2{
+    background: #00CE54;
+    margin-top: 120px;
+    color: white;
+    display: none;
+    width: 460px;
+}
